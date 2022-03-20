@@ -1,15 +1,15 @@
 <div align="center">
 
-## Its_me_Richuser
+## Its_me_FOXYSER
 
 <div align="center">
-  <img src=richusher.jpg>
+  <img src=IMG-20220302-WA0738.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IBmcCYL2YUpFZJdWMA68it) 
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EUUprFfteqZGxdzdOoX2bK) 
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -31,8 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
-
+### Its_me_FOXY
 
 ### ⚠️ Warning! 
 ```
@@ -45,10 +44,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
- https://github.com/Richuser_b1 |  
+  [![FOXY](<IMG-20220304-WA0147 (1).jpg>)
+ https://github.com/FOXYSER |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_FOXY](https://github.com/FOXYSER)  |
 Base, Bug Fixes, Modules | 
   
     
