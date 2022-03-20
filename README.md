@@ -45,9 +45,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![FOXY](<IMG-20220304-WA0147 (1).jpg>
- https://github.com/FOXYSER |  
+ https://github.com/FOXYSER/FOXY|  
 ----|
-[Its_me_FOXY](https://github.com/FOXYSER)  |
+[Its_me_FOXY](https://github.com/FOXYSER/FOXY)  |
 Base, Bug Fixes, Modules | 
   
     
