@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@FOXY
+FOXY
 /
-RICHUSER_B1
+FOXY
 Public
-forked from richusir/RICHUSER_B1
+forked from FOXYSER/FOXY
 0
 1121
 Code
@@ -21,17 +21,17 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
-richusir Create bot.js
+FOXY/bot.js /
+@FOXYSER
+FOXYSER Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
 @farhan-dqz@phaticusthiccy@yusufusta@richusir@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
 274 lines (239 sloc)  11.5 KB
   
-/* Copyright (C) 2020 Yusuf Usnta.
-RECODDED BY richumlp
+/* Copyright (C) 2020 FOXY.
+RECODDED BY foxy
 Plk  
 */
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('FOXYSER working perfectly 💘')
         );
     });
     
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'FOXYSER_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
