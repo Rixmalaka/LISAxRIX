@@ -44,7 +44,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![FOXY](<IMG-20220304-WA0147 (1).jpg>)
+  [![FOXY](<IMG-20220304-WA0147 (1).jpg>
  https://github.com/FOXYSER |  
 ----|
 [Its_me_FOXY](https://github.com/FOXYSER)  |
