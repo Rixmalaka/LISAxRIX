@@ -94,7 +94,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "☜💔  𝓕σ𝐱Ƴ ᔕέ𝓻  👺☮"
+            "value": "☜💔 𝓕σ𝐱Ƴ ᔕέ𝓻 👺☮"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
