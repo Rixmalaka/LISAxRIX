@@ -1,9 +1,9 @@
 <div align="center">
 
-## Its_me_FOXYSER
+## Its_me_RIX
 
 <div align="center">
-  <img src=IMG-20220302-WA0738.jpg>
+  <img src=IMG-20220321-WA0001.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_FOXY
+### Its_me_RIX
 
 ### ⚠️ Warning! 
 ```
@@ -44,10 +44,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![FOXY](<IMG-20220304-WA0147 (1).jpg>
- https://github.com/FOXYSER/FOXY|  
+  ACHU
+ https://github.com/LISARIX|  
 ----|
-[Its_me_FOXY](https://github.com/FOXYSER/FOXY)  |
+[Its_me_achu](https://github.com/RIXJAAN)  |
 Base, Bug Fixes, Modules | 
   
     
