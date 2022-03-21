@@ -10,7 +10,7 @@ FOXY
 /
 FOXY
 Public
-forked from FOXYSER/FOXY
+forked from RIX/LISA
 0
 1121
 Code
@@ -30,8 +30,8 @@ Latest commit 21d64e4 on 9 Aug
 @farhan-dqz@phaticusthiccy@yusufusta@richusir@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
 274 lines (239 sloc)  11.5 KB
   
-/* Copyright (C) 2020 FOXY.
-RECODDED BY foxy
+/* Copyright (C) 2020 RIX.
+RECODDED BY LISA
 Plk  
 */
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('FOXYSER working perfectly 💘')
+            chalk.green.bold('RIX working perfectly 💘')
         );
     });
     
